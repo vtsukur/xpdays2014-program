@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>talks</key>
+	<array>
+		<dict>
+			<key>talk</key>
+			<string>Building a micro-services architecture with smart use cases</string>
+			<key>talker</key>
+			<string>Sander Hoogendoorn</string>
+		</dict>
+		<dict>
+			<key>talk</key>
+			<string>New life inside monolithic application</string>
+			<key>talker</key>
+			<string>Taras Matyashovskyy</string>
+		</dict>
+		<dict>
+			<key>talk</key>
+			<string>The responsible developer</string>
+			<key>talker</key>
+			<string>Thomas Sundberg</string>
+		</dict>
+		<dict>
+			<key>talk</key>
+			<string>Writing clean and DRY code for executable specifications</string>
+			<key>talker</key>
+			<string>Vagif Abilov</string>
+		</dict>
+		<dict>
+			<key>talk</key>
+			<string>Open Decision in Architectural Evolution</string>
+			<key>talker</key>
+			<string>Austin Bingham</string>
+		</dict>
+		<dict>
+			<key>talk</key>
+			<string>Continuous Development Pipeline</string>
+			<key>talker</key>
+			<string>Izzet Mustafaiev</string>
+		</dict>
+		<dict>
+			<key>talk</key>
+			<string>Why testing take so much time?</string>
+			<key>talker</key>
+			<string>Mikalai Alimenkou</string>
+		</dict>
+		<dict>
+			<key>talk</key>
+			<string>Automation testing of responsive design</string>
+			<key>talker</key>
+			<string>Alexey Zvolinskiy</string>
+		</dict>
+		<dict>
+			<key>talk</key>
+			<string>Quality of the product team</string>
+			<key>talker</key>
+			<string>Dmitriy Yefimenko</string>
+		</dict>
+		<dict>
+			<key>talk</key>
+			<string>A=F(?): How lack of common sense kills projects</string>
+			<key>talker</key>
+			<string>Eugene Krivosheyev</string>
+		</dict>
+		<dict>
+			<key>talk</key>
+			<string>The Primacy of Testability</string>
+			<key>talker</key>
+			<string>Austin Bingham</string>
+		</dict>
+		<dict>
+			<key>talk</key>
+			<string>How not to run a Code Review</string>
+			<key>talker</key>
+			<string>Viktor Malyi</string>
+		</dict>
+		<dict>
+			<key>talk</key>
+			<string>Practical Considerations for Microservice Architectures</string>
+			<key>talker</key>
+			<string>Sam Newman</string>
+		</dict>
+		<dict>
+			<key>talk</key>
+			<string>Refactoring Legacy Сode</string>
+			<key>talker</key>
+			<string>Dmytro Mindra</string>
+		</dict>
+		<dict>
+			<key>talk</key>
+			<string>Practical Considerations for Microservice Architectures</string>
+			<key>talker</key>
+			<string>Sam Newman</string>
+		</dict>
+		<dict>
+			<key>talk</key>
+			<string>The infrastructure of modern AngularJS web applications</string>
+			<key>talker</key>
+			<string>Andrey Alpert</string>
+		</dict>
+		<dict>
+			<key>talk</key>
+			<string>Continious Delivery for a complicated product</string>
+			<key>talker</key>
+			<string>Dmitriy Yefimenko</string>
+		</dict>
+		<dict>
+			<key>talk</key>
+			<string>Writing tests: practical guidelines including patterns, anti-patterns and best practices</string>
+			<key>talker</key>
+			<string>Dmitriy Shekhovtsov</string>
+		</dict>
+		<dict>
+			<key>talk</key>
+			<string>Quality Built In</string>
+			<key>talker</key>
+			<string>Andrey Dzynia</string>
+		</dict>
+		<dict>
+			<key>talk</key>
+			<string>A Database story by DevOps</string>
+			<key>talker</key>
+			<string>Anton Martynenko</string>
+		</dict>
+		<dict>
+			<key>talk</key>
+			<string>How we testing our software “Google way”</string>
+			<key>talker</key>
+			<string>Oleksiy Rezchykov</string>
+		</dict>
+		<dict>
+			<key>talk</key>
+			<string>Legacy projects: how to win the race</string>
+			<key>talker</key>
+			<string>Victor Polischuk</string>
+		</dict>
+		<dict>
+			<key>talk</key>
+			<string>Beyond breaking bad. The current state of agile in ten easy lessons</string>
+			<key>talker</key>
+			<string>Sander Hoogendoorn</string>
+		</dict>
+		<dict>
+			<key>talk</key>
+			<string>Busting TDD myths</string>
+			<key>talker</key>
+			<string>Serhiy Kalinets</string>
+		</dict>
+	</array>
+</dict>
+</plist>
