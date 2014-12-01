@@ -1,0 +1,102 @@
+{
+  "talks" : [
+    {
+      "talker" : "Sander Hoogendoorn",
+      "talk" : "Building a micro-services architecture with smart use cases",
+      "url" : "http://xpdays.com.ua/wp-content/uploads/speakers/hoogendoorn.jpg"
+    },
+    {
+      "talker" : "Taras Matyashovskyy",
+      "talk" : "New life inside monolithic application"
+    },
+    {
+      "talker" : "Thomas Sundberg",
+      "talk" : "The responsible developer",
+      "url" : "http://xpdays.com.ua/wp-content/uploads/speakers/sundberg.jpg"
+    },
+    {
+      "talker" : "Vagif Abilov",
+      "talk" : "Writing clean and DRY code for executable specifications"
+    },
+    {
+      "talker" : "Austin Bingham",
+      "talk" : "Open Decision in Architectural Evolution"
+    },
+    {
+      "talker" : "Izzet Mustafaiev",
+      "talk" : "Continuous Development Pipeline"
+    },
+    {
+      "talker" : "Mikalai Alimenkou",
+      "talk" : "Why testing take so much time?"
+    },
+    {
+      "talker" : "Alexey Zvolinskiy",
+      "talk" : "Automation testing of responsive design"
+    },
+    {
+      "talker" : "Dmitriy Yefimenko",
+      "talk" : "Quality of the product team"
+    },
+    {
+      "talker" : "Eugene Krivosheyev",
+      "talk" : "A=F(?): How lack of common sense kills projects"
+    },
+    {
+      "talker" : "Austin Bingham",
+      "talk" : "The Primacy of Testability"
+    },
+    {
+      "talker" : "Viktor Malyi",
+      "talk" : "How not to run a Code Review"
+    },
+    {
+      "talker" : "Sam Newman",
+      "talk" : "Practical Considerations for Microservice Architectures"
+    },
+    {
+      "talker" : "Dmytro Mindra",
+      "talk" : "Refactoring Legacy Сode"
+    },
+    {
+      "talker" : "Sam Newman",
+      "talk" : "Practical Considerations for Microservice Architectures"
+    },
+    {
+      "talker" : "Andrey Alpert",
+      "talk" : "The infrastructure of modern AngularJS web applications"
+    },
+    {
+      "talker" : "Dmitriy Yefimenko",
+      "talk" : "Continious Delivery for a complicated product"
+    },
+    {
+      "talker" : "Dmitriy Shekhovtsov",
+      "talk" : "Writing tests: practical guidelines including patterns, anti-patterns and best practices"
+    },
+    {
+      "talker" : "Andrey Dzynia",
+      "talk" : "Quality Built In"
+    },
+    {
+      "talker" : "Anton Martynenko",
+      "talk" : "A Database story by DevOps"
+    },
+    {
+      "talker" : "Oleksiy Rezchykov",
+      "talk" : "How we testing our software “Google way”"
+    },
+    {
+      "talker" : "Victor Polischuk",
+      "talk" : "Legacy projects: how to win the race"
+    },
+    {
+      "talker" : "Sander Hoogendoorn",
+      "talk" : "Beyond breaking bad. The current state of agile in ten easy lessons"
+    },
+    {
+      "talker" : "Serhiy Kalinets",
+      "talk" : "Busting TDD myths"
+    }
+  ]
+}
