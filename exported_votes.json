@@ -1,0 +1,124 @@
+{
+  "talks" : [
+    {
+      "talker" : "Sander Hoogendoorn",
+      "talk" : "Building a micro-services architecture with smart use cases",
+      "url" : "http://xpdays.com.ua/wp-content/uploads/speakers/hoogendoorn.jpg"
+    },
+    {
+      "talker" : "Taras Matyashovskyy",
+      "talk" : "New life inside monolithic application",
+      "url" : "http://xpdays.com.ua/wp-content/uploads/speakers/matyashovskyy.jpg"
+    },
+    {
+      "talker" : "Thomas Sundberg",
+      "talk" : "The responsible developer",
+      "url" : "http://xpdays.com.ua/wp-content/uploads/speakers/sundberg.jpg"
+    },
+    {
+      "talker" : "Vagif Abilov",
+      "talk" : "Writing clean and DRY code for executable specifications",
+      "url" : "http://xpdays.com.ua/wp-content/uploads/speakers/abilov.jpg"
+    },
+    {
+      "talker" : "Austin Bingham",
+      "talk" : "Open Decision in Architectural Evolution",
+      "url" : "http://xpdays.com.ua/wp-content/uploads/speakers/bingham.jpg"
+    },
+    {
+      "talker" : "Izzet Mustafaiev",
+      "talk" : "Continuous Development Pipeline",
+      "url" : "http://xpdays.com.ua/wp-content/uploads/speakers/mustafaiev.jpg"
+    },
+    {
+      "talker" : "Mikalai Alimenkou",
+      "talk" : "Why testing take so much time?",
+      "url" : "http://xpdays.com.ua/wp-content/uploads/organizers/alimenkou.jpg"
+    },
+    {
+      "talker" : "Alexey Zvolinskiy",
+      "talk" : "Automation testing of responsive design",
+      "url" : "http://xpdays.com.ua/wp-content/uploads/speakers/zvolinskiy.jpg"
+    },
+    {
+      "talker" : "Dmitriy Yefimenko",
+      "talk" : "Quality of the product team",
+      "url" : "http://xpdays.com.ua/wp-content/uploads/speakers/efimenko.jpg"
+    },
+    {
+      "talker" : "Eugene Krivosheyev",
+      "talk" : "A=F(?): How lack of common sense kills projects",
+      "url" : "http://xpdays.com.ua/wp-content/uploads/speakers/krivosheev.jpg"
+    },
+    {
+      "talker" : "Austin Bingham",
+      "talk" : "The Primacy of Testability",
+      "url" : "http://xpdays.com.ua/wp-content/uploads/speakers/bingham.jpg"
+    },
+    {
+      "talker" : "Viktor Malyi",
+      "talk" : "How not to run a Code Review",
+      "url" : "http://xpdays.com.ua/wp-content/uploads/speakers/malyi.jpg"
+    },
+    {
+      "talker" : "Sam Newman",
+      "talk" : "Practical Considerations for Microservice Architectures",
+      "url" : "http://xpdays.com.ua/wp-content/uploads/speakers/newman.jpg"
+    },
+    {
+      "talker" : "Dmytro Mindra",
+      "talk" : "Refactoring Legacy Ð¡ode",
+      "url" : "http://xpdays.com.ua/wp-content/uploads/speakers/mindra.jpg"
+    },
+    {
+      "talker" : "Sam Newman",
+      "talk" : "Practical Considerations for Microservice Architectures",
+      "url" : "http://xpdays.com.ua/wp-content/uploads/speakers/newman.jpg"
+    },
+    {
+      "talker" : "Andrey Alpert",
+      "talk" : "The infrastructure of modern AngularJS web applications",
+      "url" : "http://xpdays.com.ua/wp-content/uploads/speakers/alpert.jpg"
+    },
+    {
+      "talker" : "Dmitriy Yefimenko",
+      "talk" : "Continious Delivery for a complicated product",
+      "url" : "http://xpdays.com.ua/wp-content/uploads/speakers/efimenko.jpg"
+    },
+    {
+      "talker" : "Dmitriy Shekhovtsov",
+      "talk" : "Writing tests: practical guidelines including patterns, anti-patterns and best practices",
+      "url" : "http://xpdays.com.ua/wp-content/uploads/speakers/shekhovtsov.jpg"
+    },
+    {
+      "talker" : "Andrey Dzynia",
+      "talk" : "Quality Built In",
+      "url" : "http://xpdays.com.ua/wp-content/uploads/speakers/dzynia.jpg"
+    },
+    {
+      "talker" : "Anton Martynenko",
+      "talk" : "A Database story by DevOps",
+      "url" : "http://xpdays.com.ua/wp-content/uploads/speakers/martynenko.jpg"
+    },
+    {
+      "talker" : "Oleksiy Rezchykov",
+      "talk" : "How we testing our software \"Google way\"",
+      "url" : "http://xpdays.com.ua/wp-content/uploads/speakers/rezchikov.jpg"
+    },
+    {
+      "talker" : "Victor Polischuk",
+      "talk" : "Legacy projects: how to win the race",
+      "url" : "http://xpdays.com.ua/wp-content/uploads/speakers/polischuk.jpg"
+    },
+    {
+      "talker" : "Sander Hoogendoorn",
+      "talk" : "Beyond breaking bad. The current state of agile in ten easy lessons",
+      "url" : "http://xpdays.com.ua/wp-content/uploads/speakers/hoogendoorn.jpg"
+    },
+    {
+      "talker" : "Serhiy Kalinets",
+      "talk" : "Busting TDD myths",
+      "url" : "http://xpdays.com.ua/wp-content/uploads/speakers/kalinets.jpg"
+    }
+  ]
+}
